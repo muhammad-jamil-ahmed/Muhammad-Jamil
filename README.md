@@ -17,3 +17,20 @@ I'm a Full Stack Developer with a passion for crafting high-performance web appl
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamil-ahmed&show_icons=true&locale=en" alt="jamil-ahmed" /></p>
 
+
+# 💫 About Me:
+I'm a Full Stack Developer with a passion for crafting high-performance web applications and a deep expertise in React and Node.js.<br><br>🚀 Senior Full Stack Developer: Currently focused on creating scalable and efficient web solutions.<br>🔍 Tech Enthusiast: Constantly exploring and mastering the latest technologies across frontend and backend.<br>🌐 Open Source Contributor: Actively contributing to open-source projects and sharing knowledge through tech talks.<br>📚 Lifelong Learner: Committed to continuous learning and knowledge-sharing within the developer community.<br>
+
+
+# 💻 Tech Stack:
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=muhammad-jamil-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

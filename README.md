@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Jamil Ahmad</h1>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gfgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gfgf" height="30" width="40" /></a>
+</p>
 
 ## 💻 About Me
 
@@ -18,9 +21,20 @@ I'm a Full Stack Developer with a passion for crafting high-performance web appl
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammad-jamil-ahmed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muhammad-jamil-ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammad-jamil-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -31,19 +45,6 @@ I'm a Full Stack Developer with a passion for crafting high-performance web appl
 
 
 
-jfdjfhjbdshgdhsgdshgd---------
 
 
-<h1 align="center">Hi 👋, I'm Jamil Ahmad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gfgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gfgf" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamil-ahmed&show_icons=true&locale=en" alt="jamil-ahmed" /></p>
 

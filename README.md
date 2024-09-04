@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://www.shutterstock.com/shutterstock/photos/2315735079/display_1500/stock-vector-full-stack-developer-programmer-who-can-work-with-software-and-hardware-part-of-the-service-back-2315735079.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/muhammad-jamil-ahmed/Muhammad-Jamil/blob/main/1-github.jpg)
 
 <h1 align="center">Hi 👋, I'm Jamil Ahmad</h1>
 

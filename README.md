@@ -28,10 +28,6 @@ I'm a Full Stack Developer with a passion for crafting high-performance web appl
 
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammad-jamil-ahmed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammad-jamil-ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

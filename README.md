@@ -225,3 +225,10 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 
 
 
+## Activity Overview (Commits, PRs, Code Reviews, Issues)
+
+[![Jamil's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-jamil-ahmed&theme=radical)](https://github.com/xyz)
+
+
+
+

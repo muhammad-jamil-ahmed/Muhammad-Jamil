@@ -9,9 +9,9 @@
 
 ## 💻 About Me
 
-I'm a Full Stack Developer with a passion for crafting high-performance web applications and a deep expertise in React and Node.js.
+I'm a Senior JavaScript Developer with a passion for crafting high-performance web applications and a deep expertise in JavaScript frameworks.
 
-- 🚀 **Senior Full Stack Developer**: Currently focused on creating scalable and efficient web solutions.
+- 🚀 **Senior JavaScript Developer**: Currently focused on creating scalable and efficient web solutions.
 - 🔍 **Tech Enthusiast**: Constantly exploring and mastering the latest technologies across frontend and backend.
 - 🌐 **Open Source Contributor**: Actively contributing to open-source projects and sharing knowledge through tech talks.
 - 📚 **Lifelong Learner**: Committed to continuous learning and knowledge-sharing within the developer community.

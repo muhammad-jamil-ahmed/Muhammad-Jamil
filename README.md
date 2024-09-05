@@ -1,13 +1,16 @@
-![I am GitHub Readme Generator's creator](https://github.com/muhammad-jamil-ahmed/Muhammad-Jamil/blob/main/1-github.jpg)
+<div align="center">
+    <img src="https://github.com/muhammad-jamil-ahmed/Muhammad-Jamil/blob/main/1-github.jpg" alt="I am GitHub Readme Generator's creator" width="90%" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Jamil Ahmad</h1>
+<h2 align="center">Hi 👋, I'm Jamil Ahmad</h2>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gfgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gfgf" height="30" width="40" /></a>
 </p>
 
-## 💻 About Me
+### 💻 About Me
 
 I'm a Senior JavaScript Developer with a passion for crafting high-performance web applications and a deep expertise in JavaScript frameworks.
 
@@ -15,7 +18,8 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 - 🔍 **Tech Enthusiast**: Constantly exploring and mastering the latest technologies across frontend and backend.
 - 🌐 **Open Source Contributor**: Actively contributing to open-source projects and sharing knowledge through tech talks.
 - 📚 **Lifelong Learner**: Committed to continuous learning and knowledge-sharing within the developer community.
-- 
+  
+
 <h3 align="left">Languages and Frameworks:</h3>
 
 <table>

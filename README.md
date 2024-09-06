@@ -1,3 +1,34 @@
+<h3 align="left" style="font-size: 28px;">📊 GitHub Stats:</h3>
+<div style="display: flex; flex-direction: column; justify-content: flex-start; background-color:#1e1e2f; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  
+  <!-- GitHub Stats Table with 2 Rows -->
+  <table style="width: 100%;">
+    <!-- Row 1: GitHub Streak Stats and Top Languages -->
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false" alt="GitHub Streak Stats" style="width: 400px;"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 400px;"/>
+      </td>
+    </tr>
+    <!-- Row 2: Top Contributed Repo and Activity Overview -->
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github-contributor-stats.vercel.app/api?username=muhammad-jamil-ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" style="width: 400px;"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/xyz">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-jamil-ahmed&theme=radical" alt="Jamil's GitHub Activity" style="border-radius: 10px; width: 400px;"/>
+        </a>
+      </td>
+    </tr>
+  
+  </table>
+
+</div>
+
+
 <div align="center">
     <img src="https://github.com/muhammad-jamil-ahmed/Muhammad-Jamil/blob/main/1-github%20(1).jpg" alt="I am GitHub Readme Generator's creator" width="90%" />
 </div>

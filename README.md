@@ -1,33 +1,3 @@
-<h3 align="left" style="font-size: 28px;">📊 GitHub Stats:</h3>
-<div style="display: flex; flex-direction: column; justify-content: flex-start; background-color:#1e1e2f; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  
-  <!-- GitHub Stats Table with 2 Rows -->
-  <table style="width: 100%;">
-    <!-- Row 1: GitHub Streak Stats and Top Languages -->
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false" alt="GitHub Streak Stats" style="width: 400px;"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 400px;"/>
-      </td>
-    </tr>
-    <!-- Row 2: Top Contributed Repo and Activity Overview -->
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-contributor-stats.vercel.app/api?username=muhammad-jamil-ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" style="width: 400px;"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="https://github.com/xyz">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-jamil-ahmed&theme=radical" alt="Jamil's GitHub Activity" style="border-radius: 10px; width: 400px;"/>
-        </a>
-      </td>
-    </tr>
-  
-  </table>
-
-</div>
-
 
 <div align="center">
     <img src="https://github.com/muhammad-jamil-ahmed/Muhammad-Jamil/blob/main/1-github%20(1).jpg" alt="I am GitHub Readme Generator's creator" width="90%" />
@@ -164,15 +134,11 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 </table>
 
 
-
-
-
-
-<h3 align="center" style="font-size: 28px;">📊 GitHub Stats:</h3>
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; background-color:#1e1e2f; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+<h3 align="left" style="font-size: 28px;">📊 GitHub Stats:</h3>
+<div style="display: flex; flex-direction: column; justify-content: flex-start; background-color:#1e1e2f; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   
   <!-- GitHub Stats Table with 2 Rows -->
-  <table align="center" style="width: 100%;">
+  <table style="width: 100%;">
     <!-- Row 1: GitHub Streak Stats and Top Languages -->
     <tr>
       <td align="center" style="padding: 10px;">
@@ -201,40 +167,6 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 
 
 
-
-
-
-
-
-<h3 align="left" style="font-size: 28px;">📊 GitHub Stats:</h3> <table> <tr> <td align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false" alt="GitHub Streak Stats" style="width: 400px;"/> </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 400px;"/> </td> </tr> </table>
-
-
-
-
-
-
-
-</div>
-
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; background-color:#1e1e2f; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  
-  <!-- Activity Overview Section -->
-  <div style="width: 100%; margin-bottom: 20px;">
-    <h2 style="color:#f0f0f5;"> Activity Overview </h2>
-    <a href="https://github.com/xyz">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-jamil-ahmed&theme=radical" alt="Jamil's GitHub Activity" style="border-radius: 10px;"/>
-    </a>
-  </div>
-  
-  <!-- Top Contributed Repo Section -->
-  <div style="width: 100%; text-align: center;">
-    <h2 style="color:#f0f0f5;">🔝 Top Contributed Repo</h2>
-    <img src="https://github-contributor-stats.vercel.app/api?username=muhammad-jamil-ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" style="border-radius: 10px;"/>
-  </div>
-
-</div>
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammad-jamil-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -247,7 +179,18 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 
 
 
+## rough
 
+<h3 align="center" style="font-size: 22px; color:#4b8bbe;">:computer: About Me</h3>
+<p align="center" style="font-size: 14px; color:#555;">
+I'm a Senior JavaScript Developer with a passion for crafting high-performance web applications and a deep expertise in JavaScript frameworks.
+</p>
+<ul style="font-size: 14px; text-align: center; list-style-type: none;">
+    <li>:rocket: <strong>Senior JavaScript Developer</strong>: Currently focused on creating scalable and efficient web solutions.</li>
+    <li>:mag: <strong>Tech Enthusiast</strong>: Constantly exploring and mastering the latest technologies across frontend and backend.</li>
+    <li>:earth_africa: <strong>Open Source Contributor</strong>: Actively contributing to open-source projects and sharing knowledge through tech talks.</li>
+    <li>:books: <strong>Lifelong Learner</strong>: Committed to continuous learning and knowledge-sharing within the developer community.</li>
+</ul>
 
 
 

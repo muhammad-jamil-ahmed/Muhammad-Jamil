@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://github.com/muhammad-jamil-ahmed/Muhammad-Jamil/blob/main/1-github%20(1).jpg" alt="I am GitHub Readme Generator's creator" width="90%" />
+    <img src="https://github.com/muhammad-jamil-ahmed/Muhammad-Jamil/blob/main/1-github%20(2).jpg" alt="I am GitHub Readme Generator's creator" width="90%" />
 </div>
 
 <h2 align="center">Hi 👋, I'm Jamil Ahmad</h2>

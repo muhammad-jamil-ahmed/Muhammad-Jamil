@@ -5,24 +5,25 @@
 
 <h2 align="center">Hi 👋, I'm Jamil Ahmad</h2>
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="font-size: 24px;">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gfgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gfgf" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gfgf" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-block; background-color: #0a66c2; padding: 6px; border-radius: 6px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="24" width="24" style="vertical-align: middle;" />
+    </span>
+  </a>
 </p>
 
 ### 💻 About Me
 
 I'm a Senior JavaScript Developer with a passion for crafting high-performance web applications and a deep expertise in JavaScript frameworks.
 
-- 🚀 **Senior JavaScript Developer**: Currently focused on creating scalable and efficient web solutions.
-- 🔍 **Tech Enthusiast**: Constantly exploring and mastering the latest technologies across frontend and backend.
-- 🌐 **Open Source Contributor**: Actively contributing to open-source projects and sharing knowledge through tech talks.
-- 📚 **Lifelong Learner**: Committed to continuous learning and knowledge-sharing within the developer community.
+- 🚀 **Senior JavaScript Developer**: Focused on scalable web solutions.
+- 🔍 **Tech Enthusiast**: Mastering frontend and backend technologies.
+- 🌐 **Open Source Contributor**: Sharing knowledge through talks and code.
+- 📚 **Lifelong Learner**: Passionate about continuous learning.
 
 
-
-  
 
 <h3 align="left">Languages and Frameworks:</h3>
 
@@ -171,27 +172,3 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 [![](https://visitcount.itsvg.in/api?id=muhammad-jamil-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
-## rough
-
-<h3 align="center" style="font-size: 22px; color:#4b8bbe;">:computer: About Me</h3>
-<p align="center" style="font-size: 14px; color:#555;">
-I'm a Senior JavaScript Developer with a passion for crafting high-performance web applications and a deep expertise in JavaScript frameworks.
-</p>
-<ul style="font-size: 14px; text-align: center; list-style-type: none;">
-    <li>:rocket: <strong>Senior JavaScript Developer</strong>: Currently focused on creating scalable and efficient web solutions.</li>
-    <li>:mag: <strong>Tech Enthusiast</strong>: Constantly exploring and mastering the latest technologies across frontend and backend.</li>
-    <li>:earth_africa: <strong>Open Source Contributor</strong>: Actively contributing to open-source projects and sharing knowledge through tech talks.</li>
-    <li>:books: <strong>Lifelong Learner</strong>: Committed to continuous learning and knowledge-sharing within the developer community.</li>
-</ul>
-
-
-
-

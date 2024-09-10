@@ -168,5 +168,46 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## Discover My Latest Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>d3-visualization</strong><br>
+      <a href="https://github.com/muhammad-jamil-ahmed/d3-visualization">
+      </a><br>
+      Data visualization using D3.js<br>
+      ⭐ 50 | 🍴 7<br>
+      JavaScript
+    </td>
+    <td width="50%">
+      <strong>expense-track-app</strong><br>
+      <a href="https://github.com/muhammad-jamil-ahmed/expense-track-app">
+      </a><br>
+      Track expenses with real-time stats<br>
+      ⭐ 45 | 🍴 10<br>
+      JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>food-delivery-react-node</strong><br>
+      <a href="https://github.com/muhammad-jamil-ahmed/food-delivery-react-node">
+      </a><br>
+      Food delivery platform built with React & Node<br>
+      ⭐ 65 | 🍴 12<br>
+      JavaScript
+    </td>
+    <td width="50%">
+      <strong>interactive-maps</strong><br>
+      <a href="https://github.com/muhammad-jamil-ahmed/interactive-maps">
+      </a><br>
+      Interactive maps for geographical data visualization<br>
+      ⭐ 38 | 🍴 5<br>
+      HTML
+    </td>
+  </tr>
+  <tr>
+</table>
 
 

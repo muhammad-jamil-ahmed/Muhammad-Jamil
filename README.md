@@ -252,3 +252,36 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 </table>
 
 
+#### third
+
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong><a href="https://github.com/muhammad-jamil-ahmed/d3-visualization" style="color:blue;">d3-visualization</a></strong><br>
+      Data visualization using D3.js<br><br>
+      ⭐ 50 | 🍴 7<br>
+      <span style="color:black;">JavaScript</span>
+    </td>
+    <td width="50%">
+      <strong><a href="https://github.com/muhammad-jamil-ahmed/expense-track-app" style="color:blue;">expense-track-app</a></strong><br>
+      Track expenses with real-time stats<br><br>
+      ⭐ 45 | 🍴 10<br>
+      <span style="color:black;">JavaScript</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong><a href="https://github.com/muhammad-jamil-ahmed/food-delivery-react-node" style="color:blue;">food-delivery-react-node</a></strong><br>
+      Food delivery platform built with React & Node<br><br>
+      ⭐ 65 | 🍴 12<br>
+      <span style="color:black;">JavaScript</span>
+    </td>
+    <td width="50%">
+      <strong><a href="https://github.com/muhammad-jamil-ahmed/interactive-maps" style="color:blue;">interactive-maps</a></strong><br>
+      Interactive maps for geographical data visualization<br><br>
+      ⭐ 38 | 🍴 5<br>
+      <span style="color:black;">HTML</span>
+    </td>
+  </tr>
+</table>

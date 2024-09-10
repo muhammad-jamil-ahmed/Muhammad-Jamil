@@ -170,6 +170,47 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 
 ## Discover My Latest Projects
 
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/muhammad-jamil-ahmed/d3-visualization" style="text-decoration:none; color:inherit;">
+        <strong>d3-visualization</strong><br>
+        Data visualization using D3.js<br><br>
+        ⭐ 50 | 🍴 7<br>
+        JavaScript
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/muhammad-jamil-ahmed/expense-track-app" style="text-decoration:none; color:inherit;">
+        <strong>expense-track-app</strong><br>
+        Track expenses with real-time stats<br><br>
+        ⭐ 45 | 🍴 10<br>
+        JavaScript
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/muhammad-jamil-ahmed/food-delivery-react-node" style="text-decoration:none; color:inherit;">
+        <strong>food-delivery-react-node</strong><br>
+        Food delivery platform built with React & Node<br><br>
+        ⭐ 65 | 🍴 12<br>
+        JavaScript
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/muhammad-jamil-ahmed/interactive-maps" style="text-decoration:none; color:inherit;">
+        <strong>interactive-maps</strong><br>
+        Interactive maps for geographical data visualization<br><br>
+        ⭐ 38 | 🍴 5<br>
+        HTML
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <table>
   <tr>
     <td width="50%">

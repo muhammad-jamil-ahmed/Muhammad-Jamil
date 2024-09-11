@@ -99,11 +99,11 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
       </a>
       <br>Node.js
     </td>
-   <td align="center" width="96">
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nestjs logo" width="40" height="40"/>
+<td align="center" width="96">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express logo" width="40" height="40"/>
   </a>
-  <br>NestJS
+  <br>ExpressJS
 </td>
   </tr>
   <tr>
